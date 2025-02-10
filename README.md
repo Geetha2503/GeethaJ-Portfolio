@@ -62,4 +62,8 @@ This repository contains all the assets and code snippets used in my website. Fe
 
 If you have any questions or wish to discuss these projects further, please reach out to me via [LinkedIn](your-linkedin-url).
 
+<<<<<<< HEAD
 Thank you for visiting my portfolio!
+=======
+Thank you for visiting my portfolio!
+>>>>>>> 2352ba97c5c8a1d9454c0d51c02f71a2942599a1
